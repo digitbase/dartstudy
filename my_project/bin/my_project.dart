@@ -1,3 +1,5 @@
+import './DuType01.dart';
+
 void main(List<String> arguments) {
-  print('Hello world!');
+  DuType01();
 }
